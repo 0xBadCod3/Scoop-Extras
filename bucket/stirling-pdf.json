@@ -18,9 +18,14 @@
     },
     "bin": "Stirling-PDF.jar",
     "persist": [
-        "configs",
-        "customFiles",
-        "logs"
+		"configs",
+		"customFiles",
+		"logs",
+		"launcher",
+		"pipeline",
+		["Stirling-PDF.exe", "Stirling-PDF.exe"],
+		["Stirling-PDF.ico", "Stirling-PDF.ico"],
+		["Stirling-PDF.lnk", "Stirling-PDF.lnk"]
     ],
     "checkver": {
         "github": "https://github.com/Stirling-Tools/Stirling-PDF"
