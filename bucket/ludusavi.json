@@ -20,6 +20,12 @@
             "Ludusavi"
         ]
     ],
+    "persist": [
+		"Backups",
+		["Backup_MEGA.txt", "Backup_MEGA.txt"],
+		["ludusavi.portable", "ludusavi.portable"],
+		["Savegame Manager.lnk", "Savegame Manager.lnk"]
+	],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
