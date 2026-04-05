@@ -21,12 +21,24 @@
         ]
     ],
     "persist": [
-		"Backups",
-		["Backup_MEGA.txt", "Backup_MEGA.txt"],
-		["ludusavi.portable", "ludusavi.portable"],
-		["config.yaml", "config.yaml"],
-		["Savegame Manager.lnk", "Savegame Manager.lnk"]
-	],
+        "Backups",
+        [
+            "Backup_MEGA.txt",
+            "Backup_MEGA.txt"
+        ],
+        [
+            "ludusavi.portable",
+            "ludusavi.portable"
+        ],
+        [
+            "config.yaml",
+            "config.yaml"
+        ],
+        [
+            "Savegame Manager.lnk",
+            "Savegame Manager.lnk"
+        ]
+    ],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
